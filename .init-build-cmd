@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/weatherwise-dashboard-weather-dashboard-container-9117-9123/weather_display"
+}
